@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsKinect2D.CSharp.Plugins", "SportsKinect2D.CSharp.Plugins.csproj", "{7645DD13-77AF-61C6-058E-6608634A51B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsKinect2D.CSharp", "SportsKinect2D.CSharp.csproj", "{94F96940-60BD-ED24-AA54-05F65AC269AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsKinect2D.CSharp.Editor.Plugins", "SportsKinect2D.CSharp.Editor.Plugins.csproj", "{610EF1A4-7FBC-6FDC-F53F-6CB4C99C4136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7645DD13-77AF-61C6-058E-6608634A51B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7645DD13-77AF-61C6-058E-6608634A51B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7645DD13-77AF-61C6-058E-6608634A51B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7645DD13-77AF-61C6-058E-6608634A51B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F96940-60BD-ED24-AA54-05F65AC269AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F96940-60BD-ED24-AA54-05F65AC269AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F96940-60BD-ED24-AA54-05F65AC269AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F96940-60BD-ED24-AA54-05F65AC269AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610EF1A4-7FBC-6FDC-F53F-6CB4C99C4136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610EF1A4-7FBC-6FDC-F53F-6CB4C99C4136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610EF1A4-7FBC-6FDC-F53F-6CB4C99C4136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610EF1A4-7FBC-6FDC-F53F-6CB4C99C4136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
